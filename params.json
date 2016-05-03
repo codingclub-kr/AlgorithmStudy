@@ -1,0 +1,6 @@
+{
+  "name": "코딩클럽 알고리즘 스터디",
+  "tagline": "스터디 운영 및 관련 리소스를 게시합니다.",
+  "body": "### 스터디 로드맵\r\n\r\n### 스터디 운영 현황\r\n| 주차   | 내용           | 문서      |\r\n|:-----:|-------------| -----|\r\n| 1주차  |자료구조란 무엇인가?<br>알고리즘이란 무엇인가?<br>배열 / 리스트 / 스택 / 큐| [질문](https://docs.google.com/document/d/1gUzGKr-FikNUYfkfniBoSaC8ezBtKxaNGK7KTbN83kg/edit)<br>[토의내용](https://docs.google.com/document/d/1wewdWZX7tFsoAob57ul6QQKlG0cMMO92uC5FRJTuSIw/edit) |\r\n| 2주차  | 탐색 / 정렬  |[질문](https://docs.google.com/document/d/1ly0g_EomC5uZ1bEIbVgCN6FXpZxcjcuL5CP2i3tGvbs/edit)<br>[관련코드(자바스크립트)](https://dl.dropboxusercontent.com/u/9544018/codingclub-algorithm/algorithm-codingclub.zip) |\r\n| 3주차 |              |     |\r\n| 4주차 |              |     |",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
